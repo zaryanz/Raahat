@@ -6,6 +6,6 @@ Raahat uses Google Maps API and warns users about potential flooding areas. It c
 ### Web Version
 ![Web](screenshots/w.png)
 ### Mobile Version
-![Android](screenshots/a1.png)
-![Android](screenshots/a2.png)
-![Android](screenshots/a3.png)
+![Android](screenshots/a1.jpeg)
+![Android](screenshots/a2.jpeg)
+![Android](screenshots/a3.jpeg)
